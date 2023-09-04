@@ -1,10 +1,10 @@
 
 class Book:
-    def __init__(self, author, title):
+    def __init__(author, title):
         pass
     
-    def display(self):
-        pass
+    def display(author):
+        
 
 
 if __name__ == "__main__":
