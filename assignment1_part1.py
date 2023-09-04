@@ -6,7 +6,7 @@ def list_divide(numbers, divide=2):
     pass
 
 class ListDivideException ():
-    if list_divide
+    if list_divide = IndexError
 
 def test_list_divide():
     """
