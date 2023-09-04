@@ -4,7 +4,7 @@ class Book:
         self.title = title
 
     def display(self):
-      print (self.title,', written by' ,self.author)
+      print (self.title,', written by', self.author)
 
 a_author = ('J.K. Rowling')
 a_title = ('Harry Potter and the Goblet of Fire')
