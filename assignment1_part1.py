@@ -1,9 +1,12 @@
 
 def list_divide(numbers, divide=2):
     """
-    The function returns the number of elements in the numbers list that are divisibleby divide
+    The function returns the number of elements in the numbers list that are divisible by divide
     """
     pass
+
+class ListDivideException ():
+    if list_divide
 
 def test_list_divide():
     """
