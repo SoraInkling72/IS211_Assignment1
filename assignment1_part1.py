@@ -1,6 +1,6 @@
 def list_divide (numbers, divide=2):
     #Divide parameter has default number of 2#
-    pass
+    (sum(numbers)) / divide
 
 class ListDivideException (Exception):
     pass
