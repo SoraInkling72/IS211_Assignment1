@@ -4,7 +4,7 @@ class Book:
         pass
     
     def display(author):
-        
+        print ("'title' written by 'author'")
 
 
 if __name__ == "__main__":
